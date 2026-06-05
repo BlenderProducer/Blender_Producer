@@ -30,7 +30,7 @@ body {
 .avatar {
     width: 90px;
     height: 90px;
-    background-image: url('profile.jpg');
+    background-image: url('Profile.jpg');
     background-size: cover;
     background-position: center;
     border-radius: 50%;
